@@ -7,7 +7,7 @@ Created on Wed Nov 27 08:50:16 2024
 
 # Olivier Rukundo, Ph.D. - orukundo@gmail.com - 2024-11-27
 ##################### patchExportFunction.py #################################
-# This script automates the extraction of fixed-size patches from images based 
+# This automates the extraction of fixed-size patches from images based 
 # on ManualRoiPatchingFunction.py's predefined ROI centers.
 # and saves the patches to a designated output folder.
 ##############################################################################
