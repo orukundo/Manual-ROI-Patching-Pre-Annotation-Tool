@@ -7,7 +7,7 @@ Created on Tue Nov 26 23:22:19 2024
 
 # Olivier Rukundo, Ph.D. - orukundo@gmail.com - 2024-11-27
 ################### ManualRoiPatchingFunction.py #############################
-# This tool provides options for manually defining the fixed ROI size, 
+# This code provides options for manually defining the fixed ROI size, 
 # marking (left-clicking) and correcting (right-clicking) ROIs on an image. 
 # The output includes annotated image with the fixed-size ROI squares and 
 # corresponding text files with the ROI centers.
